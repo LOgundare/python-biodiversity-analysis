@@ -35,6 +35,11 @@ The analysis is based on two csv.files:
 - The most endangered species include bats (myotis) and ospreys.
 - Statistical analysis showed a significant relationship between species category and conservation status.
 
+## Files
+- `biodiversity.ipynb` – Complete analysis and code
+- `biodiversity analysis presentation.pptx` – Slide deck summarizing insights
+- `species_info.csv` & `observations.csv` – Original datasets
+
 ## Limitations
 •	Simplified species name classification using last-word extraction
 •	Observations do not represent population sizes
